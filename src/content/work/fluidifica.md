@@ -15,5 +15,5 @@ FLUIDIFICA, è un progetto visivo sviluppato su TouchDesigner nato postumo alla 
 L’idea è quella di un pattern visivo morbido e fluido che unito ad un video del cielo dinamico crea un soffice mare di nuvole.
 Gli elementi del visual si muovono in base all’input Audio del brano.
 
-Traccia su <a href="https://soundcloud.com/sigillodav/fluidifica">SoundClund</a>, <a href="https://open.spotify.com/intl-it/track/4hGDrbJCV8ggoO0U5jt8XP?si=dc9ee8795c1240a1">Spotify</a>.
+Traccia su <a target="_blank" href="https://soundcloud.com/sigillodav/fluidifica">SoundClund</a>, <a target="_blank" href="https://open.spotify.com/intl-it/track/4hGDrbJCV8ggoO0U5jt8XP?si=dc9ee8795c1240a1">Spotify</a>.
 
