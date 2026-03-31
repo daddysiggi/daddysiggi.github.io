@@ -5,8 +5,8 @@ import icon from 'astro-icon';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://daddysiggi.github.io/portfolio-davidesigillo/",
-  base: process.env.NODE_ENV === "production" ? "/portfolio-davidesigillo/" : "/portfolio-davidesigillo/",
+  site: "https://daddysiggi.github.io/",
+  base: process.env.NODE_ENV === "production" ? "/" : "/",
   output: "static",
   integrations: [icon()]
 });
