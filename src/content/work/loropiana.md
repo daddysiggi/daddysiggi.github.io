@@ -9,7 +9,6 @@ tags:
   - Touchdesigner
   - VJing
   - Djing
-  - Traktor
 ---
 
 Visual project realizzato in occasione di una festa non ufficiale tra colleghi.
